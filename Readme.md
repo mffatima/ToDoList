@@ -6,13 +6,13 @@
 
   Applied concepts:
   
-- Activities
-- Functions
-- RecyclerView
-- View Binding
-- Themes & Styles
-- Material Design
-- Layouts
+ Activities
+ Functions
+ RecyclerView
+ View Binding
+ Themes & Styles
+ Material Design
+ Layouts
   
 Author: [Linkedin](https://www.linkedin.com/in/dallonso/)
  
